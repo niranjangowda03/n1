@@ -1,0 +1,13 @@
+{
+  "name": "DayFlow — Daily Planner",
+  "short_name": "DayFlow",
+  "description": "Plan your day, build a timetable, take notes, and never miss a reminder.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F5F7FB",
+  "theme_color": "#3454D1",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
